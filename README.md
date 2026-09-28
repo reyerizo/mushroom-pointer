@@ -5,6 +5,7 @@ published with GitHub Pages:
 
 - Support: https://reyerizo.github.io/mushroom-pointer/
 - Privacy policy: https://reyerizo.github.io/mushroom-pointer/privacy/
+- Pomoc (PL): https://reyerizo.github.io/mushroom-pointer/pl/
 - Polityka prywatności (PL): https://reyerizo.github.io/mushroom-pointer/pl/privacy/
 
 This repository holds only these pages. The app's source is not here.

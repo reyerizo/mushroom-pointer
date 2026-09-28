@@ -4,6 +4,8 @@ title: Mushroom Pointer
 permalink: /
 ---
 
+[Wersja polska](pl/)
+
 Mushroom Pointer is a free iPhone app. It watches the forest floor through your
 camera and draws a box around anything that looks like a mushroom.
 
