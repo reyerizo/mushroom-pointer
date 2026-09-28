@@ -4,6 +4,8 @@ title: Privacy policy
 permalink: /privacy/
 ---
 
+[Wersja polska](../pl/privacy/)
+
 Last updated: 2026-09-28
 
 Mushroom Pointer collects nothing.
