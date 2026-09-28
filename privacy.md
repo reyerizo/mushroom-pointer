@@ -6,7 +6,7 @@ permalink: /privacy/
 
 Last updated: 2026-09-28
 
-Mushroom Spotter collects nothing.
+Mushroom Pointer collects nothing.
 
 - **No data leaves your phone.** The app has no servers, no accounts and no
   analytics. It makes no network requests of any kind.
@@ -27,6 +27,6 @@ jerzy.erizo@gmail.com
 
 ## What the app is not
 
-Mushroom Spotter points at objects that may be mushrooms. It does not identify
+Mushroom Pointer points at objects that may be mushrooms. It does not identify
 species and it makes no statement about whether anything is safe to eat. See the
 disclaimer shown when you first open the app.
