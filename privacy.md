@@ -15,7 +15,8 @@ Mushroom Spotter collects nothing.
 - **Frames you keep** are stored on your device, in the app's own storage. They
   are not uploaded, backed up to us, or shared with anyone. Deleting the app
   deletes them.
-- **Your one setting** — the sensitivity slider — is stored on the device.
+- **Your settings** — the sensitivity slider, vibration and sound on a find,
+  and that you have read the disclaimer — are stored on the device.
 - **No advertising and no tracking.** If that ever changes, this policy and the
   app's privacy labels will change first, and the change will be visible before
   the version that makes it ships.
